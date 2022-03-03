@@ -1,0 +1,56 @@
+.contact-container {
+    height: 100vh;
+    padding-top: 20vh;
+}
+
+.message {
+    font-size: 5vh;
+}
+
+.gmail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gmail-icon {
+    font-size: 25px;
+    margin-right: 0.5vw;
+}
+
+.social-media-icon {
+    font-size: 35px;
+    margin: 0 0.5vw;
+    cursor: pointer;
+}
+
+.contact-form {
+    margin: 10vh auto;
+    width: 40%;
+}
+
+.contact-form-element {
+    text-align: left;
+    margin-bottom: 2vh;
+}
+
+.contact-form-input {
+    border: none;
+    background-color: #F6F5EF;
+    font-family: Poppins;
+    padding: 2.5vh 1.5vw;
+    border-radius: 5px;
+    width: 92%;
+    font-size: 2.5vh;
+}
+.contact-form-input:focus {
+    outline: none;
+}
+
+.contact-form-button {
+    background-color: #2196f3;
+    color: white;
+    border-radius: 5px;
+    padding: 1vh 1vw;
+    cursor: pointer;
+    margin-top: 4vh;
+}

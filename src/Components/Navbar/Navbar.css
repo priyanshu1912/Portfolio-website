@@ -1,0 +1,21 @@
+.nav-container {
+    background-color: #F6F5EF;
+    width: 100%;
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    font-size: 3vh;
+}
+
+.nav-option {
+    margin: 0 2vw;
+    cursor: pointer;
+}
+
+.nav-option-active {
+    margin: 0 2vw;
+    cursor: pointer;
+    border-bottom: 3px solid #3FE0C5;
+}
