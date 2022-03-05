@@ -2,3 +2,16 @@
     height: 100vh;
     padding-top: 20vh;
 }
+
+.namaste {
+    font-weight: bold;
+    font-size: 6vh;
+}
+
+.home-about {
+    width: 50%;
+    font-size: 4vh;
+    letter-spacing: 3px;
+    text-align: left;
+    margin: 15vh 10vw;
+}

@@ -1,4 +1,39 @@
 .skill-container {
     height: 100vh;
-    padding-top: 20vh;
+    padding: 20vh 10vw 0 10vw;
+}
+
+.technical-heading {
+    font-size: 4vh;
+    font-weight: bold;
+    text-align: left;
+    letter-spacing: 3px;
+}
+
+.technical-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.web-development {
+    font-size: 4vh;
+    font-weight: bold;
+}
+
+.skills-container {
+    text-align: left;
+    display: flex;
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+    margin: 1vh 0;
+}
+
+.skill-icon {
+    font-size: 35px;
+    color: rgb(66, 66, 66);
+    margin-right: 0.5vw;
 }
